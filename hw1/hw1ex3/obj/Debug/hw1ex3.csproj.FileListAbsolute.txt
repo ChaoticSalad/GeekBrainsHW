@@ -1,0 +1,12 @@
+D:\C# Pr\GeekBrains\hw1ex3\bin\Debug\hw1ex3.exe.config
+D:\C# Pr\GeekBrains\hw1ex3\bin\Debug\hw1ex3.exe
+D:\C# Pr\GeekBrains\hw1ex3\bin\Debug\hw1ex3.pdb
+D:\C# Pr\GeekBrains\hw1ex3\obj\Debug\hw1ex3.csproj.CoreCompileInputs.cache
+D:\C# Pr\GeekBrains\hw1ex3\obj\Debug\hw1ex3.exe
+D:\C# Pr\GeekBrains\hw1ex3\obj\Debug\hw1ex3.pdb
+D:\C# Pr\GeekBrains\hw1\hw1ex3\bin\Debug\hw1ex3.exe.config
+D:\C# Pr\GeekBrains\hw1\hw1ex3\bin\Debug\hw1ex3.exe
+D:\C# Pr\GeekBrains\hw1\hw1ex3\bin\Debug\hw1ex3.pdb
+D:\C# Pr\GeekBrains\hw1\hw1ex3\obj\Debug\hw1ex3.csproj.CoreCompileInputs.cache
+D:\C# Pr\GeekBrains\hw1\hw1ex3\obj\Debug\hw1ex3.exe
+D:\C# Pr\GeekBrains\hw1\hw1ex3\obj\Debug\hw1ex3.pdb
