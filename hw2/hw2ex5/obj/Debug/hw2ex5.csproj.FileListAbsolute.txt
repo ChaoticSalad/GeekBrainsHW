@@ -1,0 +1,7 @@
+D:\C# Pr\GeekBrains\hw2\hw2ex5\bin\Debug\hw2ex5.exe.config
+D:\C# Pr\GeekBrains\hw2\hw2ex5\bin\Debug\hw2ex5.exe
+D:\C# Pr\GeekBrains\hw2\hw2ex5\bin\Debug\hw2ex5.pdb
+D:\C# Pr\GeekBrains\hw2\hw2ex5\obj\Debug\hw2ex5.csprojAssemblyReference.cache
+D:\C# Pr\GeekBrains\hw2\hw2ex5\obj\Debug\hw2ex5.csproj.CoreCompileInputs.cache
+D:\C# Pr\GeekBrains\hw2\hw2ex5\obj\Debug\hw2ex5.exe
+D:\C# Pr\GeekBrains\hw2\hw2ex5\obj\Debug\hw2ex5.pdb

@@ -1,0 +1,6 @@
+D:\C# Pr\GeekBrains\hw2\hw2ex3\bin\Debug\hw2ex3.exe.config
+D:\C# Pr\GeekBrains\hw2\hw2ex3\bin\Debug\hw2ex3.exe
+D:\C# Pr\GeekBrains\hw2\hw2ex3\bin\Debug\hw2ex3.pdb
+D:\C# Pr\GeekBrains\hw2\hw2ex3\obj\Debug\hw2ex2.csproj.CoreCompileInputs.cache
+D:\C# Pr\GeekBrains\hw2\hw2ex3\obj\Debug\hw2ex3.exe
+D:\C# Pr\GeekBrains\hw2\hw2ex3\obj\Debug\hw2ex3.pdb
