@@ -15,7 +15,7 @@ namespace hm3ex1B
             Complex complex1 = new Complex(1, 1);
             Complex complex2 = new Complex(2, 2);
 
-            Console.Write("1 for plus, 2 for minus or 3 for multiply: ");
+            Console.Write("+ for plus, - for minus or * for multiply: ");
             Complex.PrintSwitch(complex1, complex2, Console.ReadLine()); //Вызов диалогового окна switch
 
             Console.ReadKey();
