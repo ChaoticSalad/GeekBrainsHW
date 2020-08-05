@@ -18,8 +18,8 @@ namespace LibHw4Ex5
         {
             arr = new int[x,y];
             Random rnd = new Random();
-            for (int i = 0; i < y; i++)
-                for (int j = 0; j < x; j++)
+            for (int i = 0; i < x; i++)
+                for (int j = 0; j < y; j++)
                     arr[i,j] = rnd.Next(min,max);      
         }
 
