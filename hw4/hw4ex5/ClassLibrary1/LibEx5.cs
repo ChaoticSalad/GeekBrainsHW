@@ -98,7 +98,7 @@ namespace LibHw4Ex5
         {
             int sum = 0;
             for (int i = 0; i < userArr.arr.GetLength(0); i++)
-                for (int j = 0; j < userArr.arr.GetLength(0); j++)
+                for (int j = 0; j < userArr.arr.GetLength(1); j++)
                     sum += arr[i, j];
             return sum;
         }
@@ -107,7 +107,7 @@ namespace LibHw4Ex5
         {
             int sum = 0;
             for (int i = 0; i < userArr.arr.GetLength(0); i++)
-                for (int j = 0; j < userArr.arr.GetLength(0); j++)
+                for (int j = 0; j < userArr.arr.GetLength(1); j++)
                     if (arr[i, j] > min)
                         sum += arr[i, j];
             return sum;
