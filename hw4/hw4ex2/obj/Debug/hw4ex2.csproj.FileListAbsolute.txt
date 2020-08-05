@@ -1,0 +1,7 @@
+D:\C# Pr\GeekBrains\hw4\hw4ex2\bin\Debug\hw4ex2.exe.config
+D:\C# Pr\GeekBrains\hw4\hw4ex2\bin\Debug\hw4ex2.exe
+D:\C# Pr\GeekBrains\hw4\hw4ex2\bin\Debug\hw4ex2.pdb
+D:\C# Pr\GeekBrains\hw4\hw4ex2\obj\Debug\hw4ex2.csproj.CoreCompileInputs.cache
+D:\C# Pr\GeekBrains\hw4\hw4ex2\obj\Debug\hw4ex2.exe
+D:\C# Pr\GeekBrains\hw4\hw4ex2\obj\Debug\hw4ex2.pdb
+D:\C# Pr\GeekBrains\hw4\hw4ex2\obj\Debug\hw4ex2.csprojAssemblyReference.cache

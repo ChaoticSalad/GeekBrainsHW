@@ -1,0 +1,10 @@
+D:\C# Pr\GeekBrains\hw4\hw4ex3\bin\Debug\hw4ex3.exe.config
+D:\C# Pr\GeekBrains\hw4\hw4ex3\bin\Debug\hw4ex3.exe
+D:\C# Pr\GeekBrains\hw4\hw4ex3\bin\Debug\hw4ex3.pdb
+D:\C# Pr\GeekBrains\hw4\hw4ex3\obj\Debug\hw4ex3.csproj.CoreCompileInputs.cache
+D:\C# Pr\GeekBrains\hw4\hw4ex3\obj\Debug\hw4ex3.exe
+D:\C# Pr\GeekBrains\hw4\hw4ex3\obj\Debug\hw4ex3.pdb
+D:\C# Pr\GeekBrains\hw4\hw4ex3\bin\Debug\LibraryMyArray.dll
+D:\C# Pr\GeekBrains\hw4\hw4ex3\bin\Debug\LibraryMyArray.pdb
+D:\C# Pr\GeekBrains\hw4\hw4ex3\obj\Debug\hw4ex3.csprojAssemblyReference.cache
+D:\C# Pr\GeekBrains\hw4\hw4ex3\obj\Debug\hw4ex3.csproj.CopyComplete
