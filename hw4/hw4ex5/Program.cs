@@ -17,10 +17,10 @@ namespace hw4ex5
             LibEx5 myArr = new LibEx5(10, 10, 100, 10);
             Console.WriteLine(myArr.Print());
 
-            Console.WriteLine($"Sum of the elements in the array: {myArr.SumOfArr(myArr)}");
+            Console.WriteLine($"Sum of the elements in the array: {myArr.SumOfArr()}");
 
             int min = 50;
-            Console.WriteLine($"Sum of the elements in the array higher than {min}: {myArr.SumOfArrMod(myArr, min)}");
+            Console.WriteLine($"Sum of the elements in the array higher than {min}: {myArr.SumOfArrMod(min)}");
 
             Console.WriteLine($"Maximum element of the array: {myArr.Max}"); 
             

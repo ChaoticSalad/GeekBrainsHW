@@ -31,7 +31,7 @@ namespace LibHw4Ex5
             try
             {
                 StreamReader sr = new StreamReader(fileName);
-                for (int i = 0; i < y; i++)
+                for (int i = 0; i < x; i++)
                 {
                     try
                     {
@@ -94,22 +94,22 @@ namespace LibHw4Ex5
                     }
         }
 
-        public int SumOfArr(LibEx5 userArr)
+        public int SumOfArr()
         {
             int sum = 0;
-            for (int i = 0; i < userArr.arr.GetLength(0); i++)
-                for (int j = 0; j < userArr.arr.GetLength(1); j++)
-                    sum += userArr.arr[i, j];
+            for (int i = 0; i < arr.GetLength(0); i++)
+                for (int j = 0; j < arr.GetLength(1); j++)
+                    sum += arr[i, j];
             return sum;
         }
 
-        public int SumOfArrMod(LibEx5 userArr, int min)
+        public int SumOfArrMod(int min)
         {
             int sum = 0;
-            for (int i = 0; i < userArr.arr.GetLength(0); i++)
-                for (int j = 0; j < userArr.arr.GetLength(1); j++)
+            for (int i = 0; i < arr.GetLength(0); i++)
+                for (int j = 0; j < arr.GetLength(1); j++)
                     if (arr[i, j] > min)
-                        sum += userArr.arr[i, j];
+                        sum += arr[i, j];
             return sum;
         }
 
