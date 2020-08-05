@@ -81,7 +81,7 @@ namespace LibHw4Ex5
             }
         }
 
-        public void MaxElIndex(LibEx5 userArr, out int x, out int y)
+        public void MaxElIndex(out int x, out int y)
         {
             x = 0;
             y = 0;
@@ -99,7 +99,7 @@ namespace LibHw4Ex5
             int sum = 0;
             for (int i = 0; i < userArr.arr.GetLength(0); i++)
                 for (int j = 0; j < userArr.arr.GetLength(1); j++)
-                    sum += arr[i, j];
+                    sum += userArr.arr[i, j];
             return sum;
         }
 
@@ -109,7 +109,7 @@ namespace LibHw4Ex5
             for (int i = 0; i < userArr.arr.GetLength(0); i++)
                 for (int j = 0; j < userArr.arr.GetLength(1); j++)
                     if (arr[i, j] > min)
-                        sum += arr[i, j];
+                        sum += userArr.arr[i, j];
             return sum;
         }
 

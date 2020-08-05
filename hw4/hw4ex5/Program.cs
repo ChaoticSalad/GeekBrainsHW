@@ -26,7 +26,7 @@ namespace hw4ex5
             
             int x = 0;
             int y = 0;
-            myArr.MaxElIndex(myArr, out x, out y);
+            myArr.MaxElIndex(out x, out y);
             Console.WriteLine($"Index of the maximum element: {x} {y} ");
 
             Console.WriteLine($"Minimum element of the array: {myArr.Min}");
