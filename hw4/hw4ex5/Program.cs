@@ -31,6 +31,9 @@ namespace hw4ex5
 
             Console.WriteLine($"Minimum element of the array: {myArr.Min}");
 
+            myArr.SaveToFile("textInArr.txt");
+            Console.WriteLine("Array successfully saved to file textInArr.txt");
+
             LibEx5 txtArr = new LibEx5(10, 10, "arrayList.txt");
             Console.WriteLine("Array from txt file: ");
             Console.WriteLine(txtArr.Print());

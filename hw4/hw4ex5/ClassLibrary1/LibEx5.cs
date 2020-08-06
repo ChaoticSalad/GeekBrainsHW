@@ -54,6 +54,28 @@ namespace LibHw4Ex5
                 Console.WriteLine(ex.Message);
             }
         }
+        public void SaveToFile(string fileName)
+        {
+            try
+            {
+                StreamWriter sw = new StreamWriter(fileName);
+                string result = String.Empty;
+                for (int i = 0; i < arr.GetLength(0); i++)
+                {
+                    for (int j = 0; j < arr.GetLength(1); j++)
+                    {
+                        result += ($"{arr[i, j]} ");
+                    }
+                    sw.WriteLine($"{result.Substring(0, result.Length - 1)}");
+                    result = String.Empty;
+                }
+                sw.Close();
+            }
+            catch (FileNotFoundException ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+        }
 
         public int Min
         {
