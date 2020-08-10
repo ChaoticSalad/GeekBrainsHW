@@ -23,8 +23,14 @@ namespace hw5ex4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("How many students: ");
-            string[] students = new string[Convert.ToInt32(Console.ReadLine())];
+            int studArrLen;
+            do
+            {
+                Console.WriteLine("From 10 to 100, Enter number of students: ");
+                studArrLen = Convert.ToInt32(Console.ReadLine());
+            } while (studArrLen < 10 || studArrLen > 100);
+
+            string[] students = new string[studArrLen];
             double[] grades = new double[students.Length];
             double firstWorst = double.MaxValue;
             double secondWorst = double.MaxValue;
@@ -41,7 +47,7 @@ namespace hw5ex4
                 {
                     Console.WriteLine("Enter student family name, name and his grades: ");
                     students[i] = Console.ReadLine();
-                    //Console.Clear();
+                    Console.Clear();
                     if (!regStud.IsMatch(students[i]))
                         Console.WriteLine("Incorrect Regex of entered student");
                 }
@@ -75,8 +81,6 @@ namespace hw5ex4
                     thirdWorst = grades[i];
             }
 
-            Console.WriteLine($"{firstWorst}, {secondWorst}, {thirdWorst}");
-
             for (int i = 0; i < students.Length; i++)
             {
                 if (grades[i] == firstWorst)
@@ -85,7 +89,7 @@ namespace hw5ex4
                     {
                         if (Char.IsDigit(students[i][j]))
                         {
-                            studFirstWorst += $"{students[i].Substring(0, j)}, ";
+                            studFirstWorst += $"{students[i].Substring(0, j)} ";
                             break;
                         }
                     }
@@ -96,7 +100,7 @@ namespace hw5ex4
                     {
                         if (Char.IsDigit(students[i][j]))
                         {
-                            studSecndWorst += $"{students[i].Substring(0, j)}, ";
+                            studSecndWorst += $"{students[i].Substring(0, j)} ";
                             break;
                         }
                     }
@@ -107,7 +111,7 @@ namespace hw5ex4
                     {
                         if (Char.IsDigit(students[i][j]))
                         {
-                            studThirdWorst += $"{students[i].Substring(0, j)}, ";
+                            studThirdWorst += $"{students[i].Substring(0, j)} ";
                             break;
                         }
                     }
