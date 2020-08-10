@@ -1,0 +1,7 @@
+D:\C# Pr\GeekBrains\hw5\hw5ex4\bin\Debug\hw5ex4.exe.config
+D:\C# Pr\GeekBrains\hw5\hw5ex4\bin\Debug\hw5ex4.exe
+D:\C# Pr\GeekBrains\hw5\hw5ex4\bin\Debug\hw5ex4.pdb
+D:\C# Pr\GeekBrains\hw5\hw5ex4\obj\Debug\hw5ex4.csprojAssemblyReference.cache
+D:\C# Pr\GeekBrains\hw5\hw5ex4\obj\Debug\hw5ex4.csproj.CoreCompileInputs.cache
+D:\C# Pr\GeekBrains\hw5\hw5ex4\obj\Debug\hw5ex4.exe
+D:\C# Pr\GeekBrains\hw5\hw5ex4\obj\Debug\hw5ex4.pdb
