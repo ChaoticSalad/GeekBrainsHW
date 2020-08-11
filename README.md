@@ -1,2 +1,2 @@
 # GeekBrainsHW
-My home work done for GeekBrains
+My homework done for GeekBrains
