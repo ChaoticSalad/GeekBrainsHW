@@ -49,29 +49,29 @@ namespace hm5ex2
             return userMessage;
         }
 
-        public static string LongestWord(string message)
+        public static StringBuilder LongestWords(string message)
         {
             int strLen = 0;
-            userMessage = String.Empty;
+            StringBuilder result = new StringBuilder(String.Empty);
             userMesArr = message.Split(' ');
             for (int i = 0; i < userMesArr.Length; i++)
             {
                 userMesArr[i] = userMesArr[i].Trim(charsToTrim).ToLower();
                 if (userMesArr[i].Length > strLen)
                 {
-                    userMessage = String.Empty;
+                    result.Clear();
+                    result.Append($"{userMesArr[i]} ");
                     strLen = userMesArr[i].Length;
-                    userMessage += $"{userMesArr[i]} ";
                 }
                 else if(userMesArr[i].Length == strLen)
-                    userMessage += $"{userMesArr[i]} ";
+                    result.Append($"{userMesArr[i]} ");
             }
-            return userMessage;
+            return result;
         }
 
         public static string FreqTextAnalisis(string message, string[] userWordsArr)
         {
-            string result = "";
+            string result = String.Empty;
             userMesArr = message.Split(' ');
             Dictionary<string, int> wordFreq = new Dictionary<string, int>();
             for (int i = 0; i < userMesArr.Length; i++)
@@ -109,7 +109,6 @@ namespace hm5ex2
             else
                 return false;
             return true;
-
         }
     }
 }

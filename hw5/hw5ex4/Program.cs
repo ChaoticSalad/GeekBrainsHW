@@ -31,7 +31,7 @@ namespace hw5ex4
             } while (studArrLen < 10 || studArrLen > 100);
 
             string[] students = new string[studArrLen];
-            double[] grades = new double[students.Length];
+            double[] grades = new double[studArrLen];
             double firstWorst = double.MaxValue;
             double secondWorst = double.MaxValue;
             double thirdWorst = double.MaxValue;
@@ -41,6 +41,7 @@ namespace hw5ex4
 
             Regex regStud = new Regex("^[A-Z][a-z]{1,19}( [A-Z])[a-z]{1,14}( [1-5]){3}$");
 
+            //Entering students
             for (int i = 0; i < students.Length; i++)
             {
                 do
@@ -54,6 +55,7 @@ namespace hw5ex4
                 while (!regStud.IsMatch(students[i]));
             }
 
+            //Building an array of student's grades
             for (int i = 0; i < students.Length; i++)
             {
                 for (int j = 0; j < students[i].Length; j++)
@@ -64,6 +66,7 @@ namespace hw5ex4
                 grades[i] /= 3;
             }
 
+            //Looking for three worst grades in an array
             for (int i = 0; i < grades.Length; i++)
             {
                 if (grades[i] < firstWorst)
@@ -81,6 +84,7 @@ namespace hw5ex4
                     thirdWorst = grades[i];
             }
 
+            //Looking for students with out of three worst grades
             for (int i = 0; i < students.Length; i++)
             {
                 if (grades[i] == firstWorst)
@@ -124,3 +128,4 @@ namespace hw5ex4
         }
     }
 }
+//I hate assigments from Unified State Exam
