@@ -1,0 +1,7 @@
+D:\C# Pr\HW\GeekBrainsHW\hw6\hw6ex4\bin\Debug\hw6ex4.exe.config
+D:\C# Pr\HW\GeekBrainsHW\hw6\hw6ex4\bin\Debug\hw6ex4.exe
+D:\C# Pr\HW\GeekBrainsHW\hw6\hw6ex4\bin\Debug\hw6ex4.pdb
+D:\C# Pr\HW\GeekBrainsHW\hw6\hw6ex4\obj\Debug\hw6ex4.csprojAssemblyReference.cache
+D:\C# Pr\HW\GeekBrainsHW\hw6\hw6ex4\obj\Debug\hw6ex4.csproj.CoreCompileInputs.cache
+D:\C# Pr\HW\GeekBrainsHW\hw6\hw6ex4\obj\Debug\hw6ex4.exe
+D:\C# Pr\HW\GeekBrainsHW\hw6\hw6ex4\obj\Debug\hw6ex4.pdb
