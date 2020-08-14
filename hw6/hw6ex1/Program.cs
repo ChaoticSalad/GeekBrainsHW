@@ -4,7 +4,9 @@ using System.Linq;
 using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
-
+//Изменить программу вывода таблицы функции так, чтобы можно было передавать функции типа double (double, double). 
+//    Продемонстрировать работу на функции с функцией a* x^2 и функцией a* sin(x).
+//    Черников Олег
 namespace hw6ex1
 {
     public delegate double Fun(double x);
