@@ -1,0 +1,14 @@
+D:\C# Pr\GeekBrains\hw5\hm5ex2\bin\Debug\hm5ex2.exe.config
+D:\C# Pr\GeekBrains\hw5\hm5ex2\bin\Debug\hm5ex2.exe
+D:\C# Pr\GeekBrains\hw5\hm5ex2\bin\Debug\hm5ex2.pdb
+D:\C# Pr\GeekBrains\hw5\hm5ex2\obj\Debug\hm5ex2.csprojAssemblyReference.cache
+D:\C# Pr\GeekBrains\hw5\hm5ex2\obj\Debug\hm5ex2.csproj.CoreCompileInputs.cache
+D:\C# Pr\GeekBrains\hw5\hm5ex2\obj\Debug\hm5ex2.exe
+D:\C# Pr\GeekBrains\hw5\hm5ex2\obj\Debug\hm5ex2.pdb
+D:\C# Pr\HW\GeekBrainsHW\hw5\hm5ex2\bin\Debug\hm5ex2.exe.config
+D:\C# Pr\HW\GeekBrainsHW\hw5\hm5ex2\bin\Debug\hm5ex2.exe
+D:\C# Pr\HW\GeekBrainsHW\hw5\hm5ex2\bin\Debug\hm5ex2.pdb
+D:\C# Pr\HW\GeekBrainsHW\hw5\hm5ex2\obj\Debug\hm5ex2.csprojAssemblyReference.cache
+D:\C# Pr\HW\GeekBrainsHW\hw5\hm5ex2\obj\Debug\hm5ex2.csproj.CoreCompileInputs.cache
+D:\C# Pr\HW\GeekBrainsHW\hw5\hm5ex2\obj\Debug\hm5ex2.exe
+D:\C# Pr\HW\GeekBrainsHW\hw5\hm5ex2\obj\Debug\hm5ex2.pdb
