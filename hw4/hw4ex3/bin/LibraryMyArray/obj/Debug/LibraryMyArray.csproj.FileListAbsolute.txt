@@ -1,0 +1,6 @@
+D:\C# Pr\GeekBrains\hw4\hw4ex3\bin\LibraryMyArray\bin\Debug\LibraryMyArray.dll
+D:\C# Pr\GeekBrains\hw4\hw4ex3\bin\LibraryMyArray\bin\Debug\LibraryMyArray.pdb
+D:\C# Pr\GeekBrains\hw4\hw4ex3\bin\LibraryMyArray\obj\Debug\LibraryMyArray.csprojAssemblyReference.cache
+D:\C# Pr\GeekBrains\hw4\hw4ex3\bin\LibraryMyArray\obj\Debug\LibraryMyArray.csproj.CoreCompileInputs.cache
+D:\C# Pr\GeekBrains\hw4\hw4ex3\bin\LibraryMyArray\obj\Debug\LibraryMyArray.dll
+D:\C# Pr\GeekBrains\hw4\hw4ex3\bin\LibraryMyArray\obj\Debug\LibraryMyArray.pdb
