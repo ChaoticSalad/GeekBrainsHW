@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <lastName>Piligrimm</lastName>
+    <firstName>Scott</firstName>
+    <university>Stanford</university>
+    <faculty>Music</faculty>
+    <course>5</course>
+    <department>Bass</department>
+    <group>27</group>
+    <city>Stanford</city>
+    <age>22</age>
+  </Student>
+  <Student>
+    <lastName>Guy</lastName>
+    <firstName>Cool</firstName>
+    <university>Cool university</university>
+    <faculty>Cool faculty</faculty>
+    <course>6</course>
+    <department>Cool department</department>
+    <group>420</group>
+    <city>Cool city</city>
+    <age>23</age>
+  </Student>
+  <Student>
+    <lastName>Mercer</lastName>
+    <firstName>Alex</firstName>
+    <university>NYU</university>
+    <faculty>Biology</faculty>
+    <course>3</course>
+    <department>Mutations</department>
+    <group>322</group>
+    <city>New York</city>
+    <age>20</age>
+  </Student>
+  <Student>
+    <lastName>Bateman</lastName>
+    <firstName>Patric</firstName>
+    <university>NYU</university>
+    <faculty>Banking</faculty>
+    <course>1</course>
+    <department>Investment</department>
+    <group>619</group>
+    <city>New York</city>
+    <age>25</age>
+  </Student>
+  <Student>
+    <lastName>Bickle</lastName>
+    <firstName>Travis</firstName>
+    <university>MCU</university>
+    <faculty>Light machines</faculty>
+    <course>2</course>
+    <department>Driving</department>
+    <group>222</group>
+    <city>New York</city>
+    <age>19</age>
+  </Student>
+  <Student>
+    <lastName>Montana</lastName>
+    <firstName>Tony</firstName>
+    <university>Miami University</university>
+    <faculty>Diplomacy</faculty>
+    <course>4</course>
+    <department>Internal negotiations</department>
+    <group>420</group>
+    <city>Oxford</city>
+    <age>26</age>
+  </Student>
+</ArrayOfStudent>
