@@ -1,0 +1,7 @@
+D:\C# Pr\HW\GeekBrainsHW\hw8\hw8ex5\bin\Debug\hw8ex5.exe.config
+D:\C# Pr\HW\GeekBrainsHW\hw8\hw8ex5\bin\Debug\hw8ex5.exe
+D:\C# Pr\HW\GeekBrainsHW\hw8\hw8ex5\bin\Debug\hw8ex5.pdb
+D:\C# Pr\HW\GeekBrainsHW\hw8\hw8ex5\obj\Debug\hw8ex5.csprojAssemblyReference.cache
+D:\C# Pr\HW\GeekBrainsHW\hw8\hw8ex5\obj\Debug\hw8ex5.csproj.CoreCompileInputs.cache
+D:\C# Pr\HW\GeekBrainsHW\hw8\hw8ex5\obj\Debug\hw8ex5.exe
+D:\C# Pr\HW\GeekBrainsHW\hw8\hw8ex5\obj\Debug\hw8ex5.pdb

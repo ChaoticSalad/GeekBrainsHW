@@ -1,0 +1,10 @@
+D:\C# Pr\HW\GeekBrainsHW\hw8\hw8ex3\bin\Debug\hw8ex3.exe.config
+D:\C# Pr\HW\GeekBrainsHW\hw8\hw8ex3\bin\Debug\hw8ex3.exe
+D:\C# Pr\HW\GeekBrainsHW\hw8\hw8ex3\bin\Debug\hw8ex3.pdb
+D:\C# Pr\HW\GeekBrainsHW\hw8\hw8ex3\obj\Debug\hw8ex3.csprojAssemblyReference.cache
+D:\C# Pr\HW\GeekBrainsHW\hw8\hw8ex3\obj\Debug\hw8ex3.Form1.resources
+D:\C# Pr\HW\GeekBrainsHW\hw8\hw8ex3\obj\Debug\hw8ex3.Properties.Resources.resources
+D:\C# Pr\HW\GeekBrainsHW\hw8\hw8ex3\obj\Debug\hw8ex3.csproj.GenerateResource.cache
+D:\C# Pr\HW\GeekBrainsHW\hw8\hw8ex3\obj\Debug\hw8ex3.csproj.CoreCompileInputs.cache
+D:\C# Pr\HW\GeekBrainsHW\hw8\hw8ex3\obj\Debug\hw8ex3.exe
+D:\C# Pr\HW\GeekBrainsHW\hw8\hw8ex3\obj\Debug\hw8ex3.pdb
