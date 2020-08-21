@@ -1,0 +1,14 @@
+D:\C# Pr\GeekBrains\hw1ex4\bin\Debug\hw1ex4.exe.config
+D:\C# Pr\GeekBrains\hw1ex4\bin\Debug\hw1ex4.exe
+D:\C# Pr\GeekBrains\hw1ex4\bin\Debug\hw1ex4.pdb
+D:\C# Pr\GeekBrains\hw1ex4\obj\Debug\hw1ex4.csprojAssemblyReference.cache
+D:\C# Pr\GeekBrains\hw1ex4\obj\Debug\hw1ex4.csproj.CoreCompileInputs.cache
+D:\C# Pr\GeekBrains\hw1ex4\obj\Debug\hw1ex4.exe
+D:\C# Pr\GeekBrains\hw1ex4\obj\Debug\hw1ex4.pdb
+D:\C# Pr\GeekBrains\hw1\hw1ex4\bin\Debug\hw1ex4.exe.config
+D:\C# Pr\GeekBrains\hw1\hw1ex4\bin\Debug\hw1ex4.exe
+D:\C# Pr\GeekBrains\hw1\hw1ex4\bin\Debug\hw1ex4.pdb
+D:\C# Pr\GeekBrains\hw1\hw1ex4\obj\Debug\hw1ex4.csprojAssemblyReference.cache
+D:\C# Pr\GeekBrains\hw1\hw1ex4\obj\Debug\hw1ex4.csproj.CoreCompileInputs.cache
+D:\C# Pr\GeekBrains\hw1\hw1ex4\obj\Debug\hw1ex4.exe
+D:\C# Pr\GeekBrains\hw1\hw1ex4\obj\Debug\hw1ex4.pdb
