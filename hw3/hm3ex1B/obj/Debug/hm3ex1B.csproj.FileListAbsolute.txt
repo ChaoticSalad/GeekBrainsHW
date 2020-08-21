@@ -1,0 +1,14 @@
+D:\C# Pr\GeekBrains\hw3\hm3ex1B\bin\Debug\hm3ex1B.exe.config
+D:\C# Pr\GeekBrains\hw3\hm3ex1B\bin\Debug\hm3ex1B.exe
+D:\C# Pr\GeekBrains\hw3\hm3ex1B\bin\Debug\hm3ex1B.pdb
+D:\C# Pr\GeekBrains\hw3\hm3ex1B\obj\Debug\hm3ex1B.csproj.CoreCompileInputs.cache
+D:\C# Pr\GeekBrains\hw3\hm3ex1B\obj\Debug\hm3ex1B.exe
+D:\C# Pr\GeekBrains\hw3\hm3ex1B\obj\Debug\hm3ex1B.pdb
+D:\C# Pr\GeekBrains\hw3\hm3ex1B\obj\Debug\hm3ex1B.csprojAssemblyReference.cache
+D:\C# Pr\HW\GeekBrainsHW\hw3\hm3ex1B\bin\Debug\hm3ex1B.exe.config
+D:\C# Pr\HW\GeekBrainsHW\hw3\hm3ex1B\bin\Debug\hm3ex1B.exe
+D:\C# Pr\HW\GeekBrainsHW\hw3\hm3ex1B\bin\Debug\hm3ex1B.pdb
+D:\C# Pr\HW\GeekBrainsHW\hw3\hm3ex1B\obj\Debug\hm3ex1B.csprojAssemblyReference.cache
+D:\C# Pr\HW\GeekBrainsHW\hw3\hm3ex1B\obj\Debug\hm3ex1B.csproj.CoreCompileInputs.cache
+D:\C# Pr\HW\GeekBrainsHW\hw3\hm3ex1B\obj\Debug\hm3ex1B.exe
+D:\C# Pr\HW\GeekBrainsHW\hw3\hm3ex1B\obj\Debug\hm3ex1B.pdb
